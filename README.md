@@ -1,7 +1,7 @@
 ## Hi there 👋
 # 💫 About Me:
 I am a developer who thrives on building practical solutions to everyday challenges. My project portfolio highlights my ability to manage data and create seamless user interfaces across multiple domains:<br>Management Systems: Streamlining operations through Library and Canteen Management projects.<br>Productivity Tools: Developing high-efficiency To-Do applications with robust task management logic.<br>Data Integration: Building interactive web applications, such as dynamic weather reporting tools.<br>I specialize in taking a project from an initial concept to a deployed, functional application using tools like Android Studio, Java and modern low-code frameworks."<br>"I am a multi-disciplinary developer with a strong foundation in Java, Python, Android programming, SQL,and NoSQL databases, allowing me to design and implement end-to-end software solutions."
-
+ 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/pullasaishalini28) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saishalinipulla@gmail.com) 
